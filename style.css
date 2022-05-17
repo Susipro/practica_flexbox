@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+body {
+
+  margin: 25px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+header {
+background-color: blue;
+
+}
+
+main {
+
+  background-color: green;
+
+}
+
+footer {
+
+  background-color: red;
+
+}
